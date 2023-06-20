@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Rushil. Junior in Computer Engineering at Ryerson University, Toronto, Canada.
-- 👀 I’m interested in flutter, react and learning more about software development. 
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on any cool/challenging projects.
-- 📫 How to reach me --> you can email me at rushil.joshi@ryerson.ca
+- Analytical and detail-oriented Computer Engineering graduate with a 4-year leadership, project management, and software development track record.
+- Skilled in using SQL, Python, and Microsoft Excel to collect, query, and manipulate datasets.
+- Knowledgeable about the Agile Framework, having led a team of 6 students to develop a Full-Stack Library Management System.
+- Strong collaborator with excellent communication skills that led academic tutorials and networking events attended by 100+ students.
 
 <!---
 rushiljoshi00/rushiljoshi00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
